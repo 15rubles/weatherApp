@@ -12,4 +12,4 @@ docker-compose up
 ```
 3. Run WeatherAppApplication
 
-4. Enter in you browser search bar http://localhost:8080/weather
+4. Enter in you browsers search bar http://localhost:8080/weather
