@@ -1,4 +1,4 @@
-# weatherApp
+# Weather uber cadence applivation
 Uber Cadence application
 
 ## Steps to run
