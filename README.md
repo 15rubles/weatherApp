@@ -1,5 +1,4 @@
 # Weather uber cadence applivation
-Uber Cadence application
 
 ## Steps to run
 1. Run:
