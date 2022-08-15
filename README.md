@@ -2,11 +2,11 @@
 Uber Cadence application
 
 ## Steps to run
-run 
+run:
 ```
 docker-compose up
 ```
-enter console command:
+Register a Domain - enter console command:
 ```
   docker run --network=host --rm ubercadence/cli:master --do weather-domain domain register -rd 1
 ```
